@@ -1,5 +1,5 @@
 
-if(val = "Yes"){
+if(val == "Yes" && val == "y"){
   
 }else{
   
